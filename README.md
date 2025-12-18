@@ -1,2 +1,35 @@
-# YO-stick
-Academic website for Capstone Design project: YO!Stick (Your Smart Guide Stick) – Assistive mobility device for the visually impaired.
+# YO!Stick – Your Smart Guide Stick
+
+Website tugas kuliah Capstone Design Program Studi Teknik Biomedis  
+Institut Teknologi Sumatera (ITERA)
+
+## Deskripsi Proyek
+YO!Stick (Your Smart Guide Stick) merupakan alat bantu mobilitas berbasis teknologi sensorik
+yang dirancang untuk membantu penyandang tunanetra dalam mendeteksi hambatan dan genangan air
+di lingkungan sekitar. Proyek ini dikembangkan sebagai bagian dari tugas kuliah Capstone Design
+Program Studi Teknik Biomedis ITERA.
+
+Website ini berfungsi sebagai media dokumentasi proyek yang memuat latar belakang,
+tujuan, konsep sistem, implementasi, pengujian, serta kesimpulan dari perancangan YO!Stick.
+
+## Struktur Website
+- Pendahuluan  
+- Tujuan Proyek  
+- Konsep Sistem  
+- Implementasi  
+- Pengujian  
+- Kesimpulan  
+
+## Teknologi yang Digunakan
+- HTML  
+- CSS  
+- GitHub Pages  
+
+## Penulis
+Nama  : Alvina Nur Khaira  
+NIM   : 122430112  
+Prodi : Teknik Biomedis  
+Institusi : Institut Teknologi Sumatera  
+
+## Catatan
+Website ini dibuat untuk keperluan akademik dan tidak digunakan untuk tujuan komersial.
