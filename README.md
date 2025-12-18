@@ -25,11 +25,17 @@ tujuan, konsep sistem, implementasi, pengujian, serta kesimpulan dari perancanga
 - CSS  
 - GitHub Pages  
 
-## Penulis
+## Penulis 1
 Nama  : Alvina Nur Khaira  
 NIM   : 122430112  
 Prodi : Teknik Biomedis  
-Institusi : Institut Teknologi Sumatera  
+Institusi : Institut Teknologi Sumatera
+
+## Penulis 2
+Nama  : Yovita Ronauli Bintang Situmorang  
+NIM   : 122430129  
+Prodi : Teknik Biomedis  
+Institusi : Institut Teknologi Sumatera
 
 ## Catatan
 Website ini dibuat untuk keperluan akademik dan tidak digunakan untuk tujuan komersial.
