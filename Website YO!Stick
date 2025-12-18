@@ -35,14 +35,18 @@
 
 <section id="pendahuluan">
   <h2>1. Pendahuluan</h2>
-  <p> Penyandang tunanetra menghadapi tantangan besar dalam mobilitas sehari-hari, terutama dalam
+  <p>
+    Penyandang tunanetra menghadapi tantangan besar dalam mobilitas sehari-hari, terutama dalam
     mendeteksi hambatan dan kondisi lingkungan yang berpotensi membahayakan. Tongkat konvensional
     hanya memberikan informasi setelah terjadi kontak fisik dengan objek, sehingga risiko kecelakaan
-    masih cukup tinggi. </p>
-  <p> YO!Stick (Your Smart Guide Stick) dikembangkan sebagai alat bantu mobilitas berbasis teknologi
+    masih cukup tinggi. 
+  </p>
+  <p> 
+    YO!Stick (Your Smart Guide Stick) dikembangkan sebagai alat bantu mobilitas berbasis teknologi
     sensorik yang mampu memberikan peringatan dini terhadap hambatan dan genangan air. Dengan
     memanfaatkan sensor ultrasonik dan sensor water level, YO!Stick diharapkan dapat meningkatkan
-    keselamatan, kemandirian, dan kenyamanan penyandang tunanetra dalam beraktivitas. </p>
+    keselamatan, kemandirian, dan kenyamanan penyandang tunanetra dalam beraktivitas. 
+  </p>
 </section>
 
 <section id="tujuan">
