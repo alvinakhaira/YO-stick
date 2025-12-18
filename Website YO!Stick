@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>YO!Stick – Website Tugas Kuliah</title>
+  <style>
+    body { font-family: Arial, Helvetica, sans-serif; margin: 0; background: #f4f6f8; color: #333; }
+    header { background: #0f4c81; color: white; padding: 40px 20px; text-align: center; }
+    nav { background: #08375f; padding: 10px; text-align: center; position: sticky; top: 0; }
+    nav a { color: white; margin: 0 10px; text-decoration: none; font-weight: bold; }
+    section { padding: 40px 20px; max-width: 1000px; margin: auto; background: white; margin-bottom: 20px; border-radius: 8px; }
+    h2 { color: #0f4c81; }
+    ul { line-height: 1.8; }
+    footer { background: #08375f; color: white; text-align: center; padding: 20px; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>YO!Stick : Your Smart Guide Stick</h1>
+  <p>Website Tugas Kuliah – Capstone Design Teknik Biomedis</p>
+  <p><strong>Alvina Nur Khaira (122430112)</strong><br>Program Studi Teknik Biomedis – Institut Teknologi Sumatera</p>
+</header>
+
+<nav>
+  <a href="#pendahuluan">Pendahuluan</a>
+  <a href="#tujuan">Tujuan</a>
+  <a href="#konsep">Konsep Sistem</a>
+  <a href="#implementasi">Implementasi</a>
+  <a href="#pengujian">Pengujian</a>
+  <a href="#kesimpulan">Kesimpulan</a>
+</nav>
+
+<section id="pendahuluan">
+  <h2>1. Pendahuluan</h2>
+  <p>
+    Penyandang tunanetra menghadapi tantangan besar dalam mobilitas sehari-hari, terutama dalam
+    mendeteksi hambatan dan kondisi lingkungan yang berpotensi membahayakan. Tongkat konvensional
+    hanya memberikan informasi setelah terjadi kontak fisik dengan objek, sehingga risiko kecelakaan
+    masih cukup tinggi.
+  </p>
+  <p>
+    YO!Stick (Your Smart Guide Stick) dikembangkan sebagai alat bantu mobilitas berbasis teknologi
+    sensorik yang mampu memberikan peringatan dini terhadap hambatan dan genangan air. Dengan
+    memanfaatkan sensor ultrasonik dan sensor water level, YO!Stick diharapkan dapat meningkatkan
+    keselamatan, kemandirian, dan kenyamanan penyandang tunanetra dalam beraktivitas.
+  </p>
+</section>
+
+<section id="tujuan">
+  <h2>2. Tujuan Proyek</h2>
+  <ul>
+    <li>Merancang alat bantu mobilitas berbasis sensor untuk penyandang tunanetra.</li>
+    <li>Meningkatkan keselamatan pengguna dengan deteksi hambatan dan genangan air.</li>
+    <li>Menyediakan sistem peringatan dini berupa suara atau getaran.</li>
+    <li>Mendukung kemandirian dan kepercayaan diri penyandang tunanetra.</li>
+  </ul>
+</section>
+
+<section id="konsep">
+  <h2>3. Konsep Sistem</h2>
+  <p>
+    YO!Stick dirancang sebagai sistem elektronik terintegrasi dengan Arduino Uno sebagai pusat
+    kendali. Sensor ultrasonik digunakan untuk mendeteksi jarak objek di depan pengguna, sementara
+    sensor water level berfungsi mendeteksi adanya genangan air pada permukaan jalan.
+  </p>
+  <p>
+    Data dari kedua sensor diproses oleh mikrokontroler dan diterjemahkan menjadi sinyal peringatan
+    melalui buzzer. Sistem ini memungkinkan pengguna memperoleh informasi lingkungan secara
+    real-time tanpa mengandalkan penglihatan.
+  </p>
+</section>
+
+<section id="implementasi">
+  <h2>4. Implementasi Sistem</h2>
+  <ul>
+    <li>Perakitan perangkat keras (Arduino, sensor ultrasonik, sensor water level, buzzer).</li>
+    <li>Pemrograman mikrokontroler untuk membaca dan memproses data sensor.</li>
+    <li>Integrasi perangkat keras dan perangkat lunak menjadi satu sistem.</li>
+    <li>Pengujian awal untuk memastikan setiap modul berfungsi dengan baik.</li>
+  </ul>
+  <p>
+    Implementasi dilakukan secara bertahap untuk memastikan kestabilan sistem serta kemudahan
+    perawatan dan pengembangan lanjutan.
+  </p>
+</section>
+
+<section id="pengujian">
+  <h2>5. Pengujian</h2>
+  <p>
+    Pengujian dilakukan untuk mengevaluasi kinerja YO!Stick, meliputi pengujian daya, akurasi
+    sensor, dan pengalaman pengguna (user experience). Pengujian sensor ultrasonik bertujuan
+    memastikan jarak yang terdeteksi sesuai dengan kondisi aktual, sedangkan sensor water level
+    diuji untuk mendeteksi keberadaan genangan air.
+  </p>
+  <p>
+    Hasil pengujian menunjukkan bahwa sistem mampu memberikan peringatan dini secara konsisten
+    dan membantu pengguna dalam menghindari potensi bahaya.
+  </p>
+</section>
+
+<section id="kesimpulan">
+  <h2>6. Kesimpulan</h2>
+  <p>
+    YO!Stick merupakan inovasi alat bantu mobilitas yang memanfaatkan teknologi sensorik untuk
+    meningkatkan keselamatan dan kemandirian penyandang tunanetra. Berdasarkan hasil perancangan,
+    implementasi, dan pengujian, sistem ini mampu mendeteksi hambatan dan genangan air secara
+    efektif.
+  </p>
+  <p>
+    Pengembangan lebih lanjut dapat difokuskan pada peningkatan ergonomi, efisiensi daya, serta
+    penambahan fitur lain seperti navigasi berbasis GPS atau konektivitas nirkabel.
+  </p>
+</section>
+
+<footer>
+  <p>© 2025 | Website Tugas Kuliah – Teknik Biomedis ITERA</p>
+</footer>
+
+</body>
+</html>
